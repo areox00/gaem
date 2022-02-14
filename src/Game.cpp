@@ -1,7 +1,7 @@
 #include "Game.hpp"
 
 #include "states/PlayState.hpp"
-#include "resources.hpp"
+#include "Resources.hpp"
 
 Game::Game()
 {

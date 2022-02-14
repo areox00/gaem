@@ -8,7 +8,7 @@ deps = [
 src = [
     'src/main.cpp',
 
-    'src/resources.cpp',
+    'src/Resources.cpp',
 
     'src/Game.cpp',
     'src/states/State.cpp',

@@ -1,4 +1,4 @@
-#include "resources.hpp"
+#include "Resources.hpp"
 
 SDL_Window *g_window = nullptr;
 SDL_Renderer *g_renderer = nullptr;

@@ -1,6 +1,6 @@
 #include "Sprite.hpp"
 
-#include "resources.hpp"
+#include "Resources.hpp"
 
 Sprite::Sprite()
 {
