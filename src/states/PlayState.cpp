@@ -20,7 +20,7 @@ void PlayState::processEvent(SDL_Event &event)
 
 void PlayState::update()
 {
-    
+
 }
 
 void PlayState::draw()

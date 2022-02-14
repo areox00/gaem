@@ -4,15 +4,11 @@
 
 class Game {
 private:
-    SDL_Window *window = nullptr;
-    SDL_Renderer *renderer = nullptr;
-    SDL_Event event;
+    SDL_Event m_event;
 
-    bool running = true;
+    bool m_running = true;
 
-    State *state = nullptr;
-
-    friend class PlayState;
+    State *m_state = nullptr;
 public:
     Game();
     ~Game();

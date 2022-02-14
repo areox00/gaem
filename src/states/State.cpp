@@ -1,7 +1,7 @@
 #include "State.hpp"
 
 State::State(Game *game)
-    : game(game)
+    : m_game(game)
 {
 
 }

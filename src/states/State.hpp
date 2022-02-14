@@ -6,7 +6,7 @@ class Game;
 
 class State {
 protected:
-    Game *game;
+    Game *m_game;
 public:
     State(Game *game);
     virtual ~State();

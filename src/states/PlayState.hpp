@@ -1,6 +1,7 @@
 #pragma once
 
 #include "State.hpp"
+#include "assets/Sprite.hpp"
 
 class PlayState : public State {
 private:
